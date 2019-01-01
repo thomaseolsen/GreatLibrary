@@ -18,3 +18,12 @@
     <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
 </address>
 
+@foreach (var element in Model.Books)
+{
+    <div class="card">
+        <div class="container">
+            <p><span class="title">@Html.DisplayFor(m => element.Title)</span> by: @Html.DisplayFor(m => element.Author)</p>
+            <p>@Html.DisplayFor(m => element.Description)</p>
+        </div>
+    </div>
+}
