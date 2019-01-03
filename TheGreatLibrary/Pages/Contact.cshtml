@@ -1,29 +1,29 @@
 ﻿@page
 @model ContactModel
 @{
-    ViewData["Title"] = "Contact";
+    ViewData["Title"] = "My Bookshelf";
 }
 <h2>@ViewData["Title"]</h2>
-<h3>@Model.Message</h3>
 
-<address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
-</address>
-
-<address>
-    <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-</address>
+<div>
+    <select name="searchType">
+        <option><text><b>Search By:</b></text></option>
+        <option>Author</option>
+        <option>ISBN</option>
+        <option>Notes</option>
+        @*<option>Read</option>*@
+        <option>Title</option>
+    </select>
+    <input type="text" name="searchText" value="" />
+    <button type="button" name="searchButton">Search</button>
+</div>
 
 @foreach (var element in Model.Books)
 {
     <div class="card">
         <div class="container">
-            <p><span class="title">@Html.DisplayFor(m => element.Title)</span> by: @Html.DisplayFor(m => element.Author)</p>
-            <p>@Html.DisplayFor(m => element.Description)</p>
+            <p><span class="title">@(element.Title)</span> @(element.Authors.Length > 0 ? ("by: " + element.Authors) : "") @(element.Editors.Length > 0 ? ("ed: " + element.Editors) : "")</p>
+            <p>@(element.Description)</p>
         </div>
     </div>
 }
