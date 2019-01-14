@@ -1,9 +1,9 @@
 C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\bin\Debug\netcoreapp2.1\TheGreatLibraryController.deps.json
 C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\bin\Debug\netcoreapp2.1\TheGreatLibraryController.dll
 C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\bin\Debug\netcoreapp2.1\TheGreatLibraryController.pdb
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\obj\Debug\netcoreapp2.1\TheGreatLibraryController.csprojAssemblyReference.cache
 C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\obj\Debug\netcoreapp2.1\TheGreatLibraryController.csproj.CoreCompileInputs.cache
 C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\obj\Debug\netcoreapp2.1\TheGreatLibraryController.AssemblyInfoInputs.cache
 C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\obj\Debug\netcoreapp2.1\TheGreatLibraryController.AssemblyInfo.cs
 C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\obj\Debug\netcoreapp2.1\TheGreatLibraryController.dll
 C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\obj\Debug\netcoreapp2.1\TheGreatLibraryController.pdb
-C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryController\obj\Debug\netcoreapp2.1\TheGreatLibraryController.csprojAssemblyReference.cache

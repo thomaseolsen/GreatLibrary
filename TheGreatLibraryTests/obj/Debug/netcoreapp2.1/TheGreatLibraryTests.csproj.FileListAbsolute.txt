@@ -1,0 +1,14 @@
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\bin\Debug\netcoreapp2.1\TheGreatLibraryTests.deps.json
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\bin\Debug\netcoreapp2.1\TheGreatLibraryTests.runtimeconfig.json
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\bin\Debug\netcoreapp2.1\TheGreatLibraryTests.runtimeconfig.dev.json
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\bin\Debug\netcoreapp2.1\TheGreatLibraryTests.dll
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\bin\Debug\netcoreapp2.1\TheGreatLibraryTests.pdb
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\obj\Debug\netcoreapp2.1\TheGreatLibraryTests.csprojAssemblyReference.cache
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\obj\Debug\netcoreapp2.1\TheGreatLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\obj\Debug\netcoreapp2.1\TheGreatLibraryTests.AssemblyInfoInputs.cache
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\obj\Debug\netcoreapp2.1\TheGreatLibraryTests.AssemblyInfo.cs
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\obj\Debug\netcoreapp2.1\TheGreatLibraryTests.dll
+C:\Users\still\GitHub\GreatLibrary\TheGreatLibraryTests\obj\Debug\netcoreapp2.1\TheGreatLibraryTests.pdb
