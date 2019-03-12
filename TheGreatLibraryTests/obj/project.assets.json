@@ -5847,7 +5847,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\still\\.nuget\\packages\\": {},
+    "C:\\nuget\\packages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5856,7 +5856,7 @@
       "projectUniqueName": "C:\\Users\\still\\GitHub\\GreatLibrary\\TheGreatLibraryTests\\TheGreatLibraryTests.csproj",
       "projectName": "TheGreatLibraryTests",
       "projectPath": "C:\\Users\\still\\GitHub\\GreatLibrary\\TheGreatLibraryTests\\TheGreatLibraryTests.csproj",
-      "packagesPath": "C:\\Users\\still\\.nuget\\packages\\",
+      "packagesPath": "C:\\nuget\\packages",
       "outputPath": "C:\\Users\\still\\GitHub\\GreatLibrary\\TheGreatLibraryTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
